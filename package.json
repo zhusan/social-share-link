@@ -1,0 +1,26 @@
+{
+  "name": "social-share-link",
+  "description": "A simple and easy-to-use social share link used in nodejs",
+  "version": "0.1.0",
+  "homepage": "https://github.com/zhusan/social-share-link",
+  "author": {
+    "name": "zhusan",
+    "email": "3@zhusan.net"
+  },
+  "main": "./src/parser.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhusan/social-share-link.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhusan/social-share-link/issues"
+  },
+  "devDependencies": {
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/zhusan/social-share-link/blob/master/MIT-license.txt"
+    }
+  ]
+}
