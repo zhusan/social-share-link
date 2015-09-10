@@ -21,12 +21,3 @@ var url = share('twitter', {
     title:'share it'
 });
 ```
-
-If you use express, you can
-
-```
-app.get('/redirect', function(req, res) {
-    var url = share(req.query.service, req.query);
-    res.redirect(url);
-});
-```
